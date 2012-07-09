@@ -1,0 +1,21 @@
+{
+
+  "name": "gotcha",
+
+  "version":"0.0.1",
+
+  "dependencies": {
+
+    "coffee-script": "",
+    "arg": "",
+    "log4js": "",
+    "socket.io": "",
+    "underscore": "",
+    "jspack": "",
+    "bufferpack": "",
+    "clone": "",
+    "buffertools": ""
+
+  }
+
+}

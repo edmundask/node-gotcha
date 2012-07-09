@@ -1,0 +1,43 @@
+[
+	{
+		"name": "RAW Recruits RO2",
+		"game": "ro2",
+		"port": 27989
+	},
+
+	{
+		"name": "RAW Recruits TDM",
+		"game": "fear",
+		"port": 27888
+	},
+
+	{
+		"name": "RAW Recruits Custom DM",
+		"game": "fear",
+		"port": 27889
+	},
+
+	{
+		"name": "RAW Recruits 1v1 Public",
+		"game": "fear",
+		"port": 27890
+	},
+
+	{
+		"name": "RAW Recruits CTF",
+		"game": "fear",
+		"port": 25777
+	},
+
+	{
+		"name": "RAW Recruits HC TDM",
+		"game": "cod4",
+		"port": 28960
+	},
+
+	{
+		"name": "Mumble VOIP",
+		"game": "mumble",
+		"port": 27814
+	}
+]

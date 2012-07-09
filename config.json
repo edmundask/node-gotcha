@@ -1,0 +1,8 @@
+{
+	"listen_port": 3000,
+	"default_args": "-all",
+	"default_host": "31.132.2.124",
+	"default_timeout": 300,
+	"update_interval": 5000,
+	"worker_distance": 200
+}
